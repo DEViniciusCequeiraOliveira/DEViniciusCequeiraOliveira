@@ -1,9 +1,9 @@
 ### Olá, eu sou Vinicius Cerqueira Oliveira 👋
 
 <div align="center">
-  <a href="https://github.com/ECVinidev">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=ECVinidev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ECVinidev&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/DEViniciusCequeiraOliveira">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=DEViniciusCequeiraOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEViniciusCequeiraOliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
