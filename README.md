@@ -23,6 +23,6 @@
    
   </div>
 
-- 🌱 Eu atualmente estudo desenvolvimento Android (Java/Kotlin).
+- 🌱 Eu atualmente estudo desenvolvimento movél com o Flutter.
 - 📫 Contate-me no email: dev.vinicius.c.oliveira@gmail.com  
 
