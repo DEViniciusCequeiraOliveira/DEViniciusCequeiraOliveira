@@ -23,6 +23,6 @@
    
   </div>
 
-- 🌱 Eu atualmente estudo desenvolvimento movél com o Flutter.
+- 🌱 Eu atualmente estudo desenvolvimento mobile com o Flutter.
 - 📫 Contate-me no email: dev.vinicius.c.oliveira@gmail.com  
 
