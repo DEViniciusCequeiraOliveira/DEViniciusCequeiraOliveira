@@ -1,6 +1,6 @@
 ### Olá, eu sou Vinicius Cerqueira Oliveira 👋
 
-- 🌱 Eu atualmente desenvolvo aplicações mobile com o Flutter.
+- 🌱 Eu atualmente desenvolvo aplicações mobile com o Flutter e Android Nativo.
 - 📓 Estudando Desenvolvimento de Sistemas no SENAI BA(FSA)
 - 📫 Contate-me no email: dev.vinicius.c.oliveira@gmail.com 
 
